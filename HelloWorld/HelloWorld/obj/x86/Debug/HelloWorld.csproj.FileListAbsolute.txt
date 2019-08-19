@@ -1,0 +1,6 @@
+/Users/clintonlunn/Documents/Programming/CSharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/clintonlunn/Documents/Programming/CSharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/clintonlunn/Documents/Programming/CSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csprojAssemblyReference.cache
+/Users/clintonlunn/Documents/Programming/CSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/clintonlunn/Documents/Programming/CSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/clintonlunn/Documents/Programming/CSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb

@@ -1,0 +1,6 @@
+/Users/clintonlunn/Documents/Programming/CSharp/ClassFundamentals/ClassFundamentals/bin/Debug/ClassFundamentals.exe
+/Users/clintonlunn/Documents/Programming/CSharp/ClassFundamentals/ClassFundamentals/bin/Debug/ClassFundamentals.pdb
+/Users/clintonlunn/Documents/Programming/CSharp/ClassFundamentals/ClassFundamentals/obj/x86/Debug/ClassFundamentals.csprojAssemblyReference.cache
+/Users/clintonlunn/Documents/Programming/CSharp/ClassFundamentals/ClassFundamentals/obj/x86/Debug/ClassFundamentals.csproj.CoreCompileInputs.cache
+/Users/clintonlunn/Documents/Programming/CSharp/ClassFundamentals/ClassFundamentals/obj/x86/Debug/ClassFundamentals.exe
+/Users/clintonlunn/Documents/Programming/CSharp/ClassFundamentals/ClassFundamentals/obj/x86/Debug/ClassFundamentals.pdb

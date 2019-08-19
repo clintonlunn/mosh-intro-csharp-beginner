@@ -1,0 +1,6 @@
+/Users/clintonlunn/Documents/Programming/CSharp/StringFun/StringFun/bin/Debug/StringFun.exe
+/Users/clintonlunn/Documents/Programming/CSharp/StringFun/StringFun/bin/Debug/StringFun.pdb
+/Users/clintonlunn/Documents/Programming/CSharp/StringFun/StringFun/obj/x86/Debug/StringFun.csprojAssemblyReference.cache
+/Users/clintonlunn/Documents/Programming/CSharp/StringFun/StringFun/obj/x86/Debug/StringFun.csproj.CoreCompileInputs.cache
+/Users/clintonlunn/Documents/Programming/CSharp/StringFun/StringFun/obj/x86/Debug/StringFun.exe
+/Users/clintonlunn/Documents/Programming/CSharp/StringFun/StringFun/obj/x86/Debug/StringFun.pdb

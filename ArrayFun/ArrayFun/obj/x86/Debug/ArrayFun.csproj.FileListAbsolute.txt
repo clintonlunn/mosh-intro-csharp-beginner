@@ -1,0 +1,6 @@
+/Users/clintonlunn/Documents/Programming/CSharp/ArrayFun/ArrayFun/bin/Debug/ArrayFun.exe
+/Users/clintonlunn/Documents/Programming/CSharp/ArrayFun/ArrayFun/bin/Debug/ArrayFun.pdb
+/Users/clintonlunn/Documents/Programming/CSharp/ArrayFun/ArrayFun/obj/x86/Debug/ArrayFun.csprojAssemblyReference.cache
+/Users/clintonlunn/Documents/Programming/CSharp/ArrayFun/ArrayFun/obj/x86/Debug/ArrayFun.csproj.CoreCompileInputs.cache
+/Users/clintonlunn/Documents/Programming/CSharp/ArrayFun/ArrayFun/obj/x86/Debug/ArrayFun.exe
+/Users/clintonlunn/Documents/Programming/CSharp/ArrayFun/ArrayFun/obj/x86/Debug/ArrayFun.pdb
