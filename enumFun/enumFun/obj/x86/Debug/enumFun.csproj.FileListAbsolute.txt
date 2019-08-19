@@ -1,0 +1,6 @@
+/Users/clintonlunn/Documents/Programming/CSharp/enumFun/enumFun/bin/Debug/enumFun.exe
+/Users/clintonlunn/Documents/Programming/CSharp/enumFun/enumFun/bin/Debug/enumFun.pdb
+/Users/clintonlunn/Documents/Programming/CSharp/enumFun/enumFun/obj/x86/Debug/enumFun.csprojAssemblyReference.cache
+/Users/clintonlunn/Documents/Programming/CSharp/enumFun/enumFun/obj/x86/Debug/enumFun.csproj.CoreCompileInputs.cache
+/Users/clintonlunn/Documents/Programming/CSharp/enumFun/enumFun/obj/x86/Debug/enumFun.exe
+/Users/clintonlunn/Documents/Programming/CSharp/enumFun/enumFun/obj/x86/Debug/enumFun.pdb

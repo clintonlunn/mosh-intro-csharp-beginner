@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{DB1B09DE-E7F6-4D03-906F-EB3E8E8F3C7B}|Default">
-  <MonoDevelop.Ide.ItemProperties.enumFun FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.enumFun PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="enumFun/Program.cs">
     <Files>
       <File FileName="enumFun/Program.cs" Line="1" Column="1" />
