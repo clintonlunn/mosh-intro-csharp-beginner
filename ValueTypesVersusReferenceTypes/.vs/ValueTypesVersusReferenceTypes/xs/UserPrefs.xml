@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{580FA7BE-02DA-4B71-83F7-F5FCEC900854}|Default">
-  <MonoDevelop.Ide.ItemProperties.ValueTypesVersusReferenceTypes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ValueTypesVersusReferenceTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ValueTypesVersusReferenceTypes/Program.cs">
     <Files>
-      <File FileName="ValueTypesVersusReferenceTypes/Program.cs" Line="11" Column="9" />
+      <File FileName="ValueTypesVersusReferenceTypes/Program.cs" Line="16" Column="92" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
